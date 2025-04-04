@@ -117,13 +117,4 @@ Final board:
 
 ---
 
-## ✅ To-Do (Optional Enhancements)
-
-- Add score tracking over multiple rounds  
-- Implement difficulty levels  
-- Allow 2-player (human vs human) mode  
-- Add colored text or emojis for terminal output  
-
----
-
-Enjoy the game and feel free to improve it! 🎉
+Enjoy the game and feel free to improve it! 
